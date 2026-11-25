@@ -1,16 +1,25 @@
-## Hi there 👋
+# Berk Gündüz
 
-<!--
-**BerkCeng/BerkCeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar mühendisiyim. BG Yazılım çatısı altında Flutter, React, backend ve yapay zekâ projeleri geliştiriyorum.
 
-Here are some ideas to get you started:
+## Uzmanlık Alanlarım
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter ve Dart ile mobil uygulama geliştirme
+- React ve Vite ile web uygulamaları
+- REST API ve backend servisleri
+- PyTorch ve yapay zekâ projeleri
+- Linux, Docker ve Nginx
+
+## Portföy
+
+🌐 [bgyazilim.com.tr](https://www.bgyazilim.com.tr)
+
+## Bağlantılar
+
+- [LinkedIn](https://www.linkedin.com/in/berk-gunduz-dev/)
+- [LeetCode](https://leetcode.com/u/berkceng/)
+- [Instagram](https://www.instagram.com/berkc.eng/)
+
+## Teknolojiler
+
+Flutter · Dart · React · JavaScript · Python · PyTorch · Firebase · REST API · Linux · Docker · Nginx

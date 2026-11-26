@@ -6,23 +6,21 @@
 
 - 🔭 I'm currently working on **Flutter mobile applications, React web systems, backend services, and a Unity project.**
 
-- 🌱 I'm currently learning **Advanced Flutter architecture, performance optimization, DevOps, and applied AI.**
+- 🌱 I'm currently learning **advanced Flutter architecture, performance optimization, DevOps, and applied AI.**
 
-- 👯 I'm looking to collaborate on **Open-source Flutter, React, backend, AI, and Unity projects.**
-
-- 🤝 I'm looking for help with **I'm looking to collaborate on practical mobile, web, AI, and game projects.**
+- 👯 I'm looking to collaborate on **open-source Flutter, React, backend, AI, and Unity projects.**
 
 - 💬 Ask me about **Flutter, Dart, React, REST APIs, Firebase, PyTorch, Linux, Docker, Nginx, and Unity.**
 
-- 📫 How to reach me **Visit my portfolio: https://www.bgyazilim.com.tr**
+- 📫 How to reach me: **[My portfolio](https://www.bgyazilim.com.tr)**
 
-- ⚡ Fun fact **I enjoy turning ideas into practical mobile and web products.**
+- ⚡ Fun fact: **I enjoy turning ideas into practical mobile and web products.**
 
-- 👨‍💻 All of my projects are available at **[https://www.bgyazilim.com.tr](https://www.bgyazilim.com.tr)**
+- 👨‍💻 All of my projects are available at **[bgyazilim.com.tr](https://www.bgyazilim.com.tr)**
 
-- 📝 I regularly write articles on **[https://medium.com/@berkgunceng](https://medium.com/@berkgunceng)**
+- 📝 I write technical articles on **[Medium](https://medium.com/@berkgunceng)**
 
-- 📄 Know about my experiences **[https://www.bgyazilim.com.tr/cv.pdf](https://www.bgyazilim.com.tr/cv.pdf)**
+- 📄 Read my resume: **[CV](https://www.bgyazilim.com.tr/cv.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
